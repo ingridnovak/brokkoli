@@ -85,6 +85,48 @@ a{
 
 }
 
+.hero_main{
+    background-color: #1F2937;
+    color: #F9FAF8;
+    align-items: center;
+    justify-content: center;
+    height: max-content;
+    display: flex;
+    padding: 100px 150px;
+}
+
+.hero_main_text{
+    padding-right: 60px;
+}
+
+.hero_main_title{
+    font-size: 48px;
+    font-weight: bolder;
+    width: 300px;
+}
+
+.hero_main_secondary{
+    color: #E5E7EB;
+    font-size: 18px;
+    width: 500px;
+    padding: 10px 0;
+}
+
+.hero_main .sign-up{
+    background-color: #3882F6;
+    color: #E5E7EB;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 11px;
+    padding: 11px;
+}
+
+
+
+.hero_main .hero_photo{
+    width: 500px;
+    height: 300px;
+}
 
 /* footer{
   margin-top: auto;
