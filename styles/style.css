@@ -209,6 +209,47 @@ a{
     font-weight: 800;
     font-size: 25px;
 }
+.call_section{
+    display: flex;
+    justify-content: center;
+    padding: 110px 200px;
+}
+
+.call_window{
+    background-color: #3882F6;
+    color: #F9FAF8;
+    width: 100%;
+    border-radius: 10px;
+
+}
+
+.call_action{
+    display: flex;
+    padding: 50px 0;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.call_title{
+    font-size: 25px;
+    font-weight: 700;
+}
+.call_descr{
+    font-size: 18px;
+    color: #d9d9d9;;
+
+}
+
+.call_btn{
+    background-color: transparent;
+    border: 2px solid #F9FAF8;
+    border-radius: 10px;
+    padding: 0 30px;
+    font-size: 18px;
+    font-weight: 600;
+    color:#F9FAF8;
+    cursor: pointer;
+}
 /* footer{
   margin-top: auto;
   padding: 8px;
