@@ -250,8 +250,12 @@ a{
     color:#F9FAF8;
     cursor: pointer;
 }
-/* footer{
+footer{
   margin-top: auto;
-  padding: 8px;
-  background-color: #eeeeee;
-} */
+  padding: 50px;
+  background-color: #1F2937;
+  color:#F9FAF8;
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+}
